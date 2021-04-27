@@ -1,13 +1,6 @@
 <h2 align="center">Hi there! I'm Salil <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30" width="30"></h2>
 
-<p align="center">
-<a href="https://twitter.com/oksalil" style="margin-right: 10px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oksalil" height="35" width="35" /></a>
-<a href="https://linkedin.com/in/chincholikarsalil" style="margin-right: 10px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chincholikarsalil" height="35" width="35" /></a>
-<a href="https://instagram.com/salilchincholikar" style="margin-right: 10px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salilchincholikar" height="35" width="35" /></a>
-</p>
-
-<h3 align="left">About me: </h3>
-<p align="center">
+### About me:
 
 - 🔭 My interests are **DevOps**, **DS**, **Programming** and **Cybersecurity**
 - 🌱 I’m currently learning **Java Spring Boot**
@@ -16,9 +9,8 @@
 - 💻 Currently exploring open source projects & communities
 - 📫 Reach me by [email](mailto:chincholikarsalil@gmail.com)
 
-</p>
+### Languages and Tools:
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" style="margin-right: 10px;" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.ruby-lang.org/en/" style="margin-right: 10px;" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
