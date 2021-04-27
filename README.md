@@ -11,11 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey there! I'm Salil Chincholikar <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi! I'm Salil <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align="right" width="400" alt="GIF" src="https://media.giphy.com/media/26vACLXgansDXwHzzI/giphy.gif" />
-
-### 😄 About me:
+<img align="right" width="30%" alt="GIF" src="https://media.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif" />
 
 ⚡ DevOps, DS, Coding and Cybersecurity enthusiast
 
@@ -27,13 +25,6 @@ Here are some ideas to get you started:
 
 👯 Love to learn and contribute in any and every possible way
 
-
-### 📫 Reach me:
-
-<a href="https://salil.carrd.co/">
-  <img align="left" alt="Connect Links" width="25px" src="https://www.svgrepo.com/show/134249/plug-and-plug-connection.svg" />
-</a>
 <br><br>
 
-
-![Salil's github stats](https://github-readme-stats.vercel.app/api?username=chincholikarsalil&show_icons=true)
+![Salil's github stats](https://github-readme-stats.vercel.app/api?username=chincholikarsalil&show_icons=true&title_color=abd200&icon_color=b7d364&text_color=68b587&bg_color=0a0f0b)
