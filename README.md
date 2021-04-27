@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 ## Hi! I'm Salil <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align="right" width="45%" alt="GIF" src="https://media.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif" />
+<img align="right" width="43.8%" alt="GIF" src="https://media.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif" />
 
 ⚡ DevOps, DS, Coding and Cybersecurity enthusiast
 
@@ -24,5 +24,8 @@ Here are some ideas to get you started:
 💻 Currently exploring open source projects & communities
 
 👯 Love to learn and contribute in any and every possible way
+
+
+<br>
 
 ![Salil's github stats](https://github-readme-stats.vercel.app/api?username=chincholikarsalil&show_icons=true&title_color=abd200&icon_color=b7d364&text_color=68b587&bg_color=0a0f0b)
