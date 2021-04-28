@@ -7,20 +7,34 @@
 - 👯 I love to contribute in every possible way
 - 💬 Ask me about anything [here](https://github.com/chincholikarsalil/chincholikarsalil/issues)
 - 💻 Currently exploring open source projects & communities
-- 📫 Reach me by [email](mailto:chincholikarsalil@gmail.com)
+
+### Connect:
+
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chincholikarsalil)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%23239120.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/salililas)
+[![Twitter](https://img.shields.io/badge/Twitter-%233A99D2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/oksalil)
+[![Instagram](https://img.shields.io/badge/instagram-%23C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salilchincholikar)
+[![Facebook](https://img.shields.io/badge/Facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/chincholikarsalil)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:chincholikarsalil@gmail.com)
+[![DEV](https://img.shields.io/badge/dev-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/chincholikarsalil)
 
 ### Languages and Tools:
 
-<p align="left">
-  <a href="https://www.python.org" style="margin-right: 10px;" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.ruby-lang.org/en/" style="margin-right: 10px;" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-  <a href="https://www.java.com" style="margin-right: 10px;" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://spring.io/" style="margin-right: 10px;" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" style="margin-right: 10px;" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://redis.io" style="margin-right: 10px;" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" style="margin-right: 10px;" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" style="margin-right: 10px;" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" style="margin-right: 10px;" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  </p>
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat)](https://www.python.org)
+[![Ruby](https://img.shields.io/badge/Ruby-%239B111E.svg?&style=flat)](https://www.ruby-lang.org/en/)
+[![Java](https://img.shields.io/badge/Java-%23F89820.svg?&style=flat)](https://www.java.com)
+[![Spring](https://img.shields.io/badge/Spring-%235B9E48.svg?&style=flat)](https://spring.io/)
+[![Docker](https://img.shields.io/badge/Docker-%230DB7ED.svg?&style=flat)](https://www.docker.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?&style=flat)](https://www.mysql.com/)
+[![Redis](https://img.shields.io/badge/Redis-%23D82C20.svg?&style=flat)](https://redis.io)
+[![Bash](https://img.shields.io/badge/Bash-%23293137.svg?&style=flat)](https://www.gnu.org/software/bash/)
+[![Linux](https://img.shields.io/badge/Linux-%23526879.svg?&style=flat)](https://www.linux.org/)
+[![Git](https://img.shields.io/badge/Git-%23F1502F.svg?&style=flat)](https://git-scm.com/)
 
-<br/><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chincholikarsalil&show_icons=true&theme=merko" alt="chincholikarsalil" /></p>
+---
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=chincholikarsalil&show_icons=true&theme=tokyonight)](https://www.github.com/chincholikarsalil)
+
+<div>
+
+---
