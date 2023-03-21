@@ -2,11 +2,11 @@
 
 ### About me:
 
-- 🔭 Interested in **Full Stack Development** and **DevOps**
-- 🌱 Currently working on getting better at **Data Structures and Algorithms**
+- 🔭 Passionate about **Full Stack Development** and **DevOps**
+- 🌱 Working on improving my skills in **Data Structures and Algorithms**
 - 👯 Love to contribute in every possible way
-- 💬 Ask me about anything [here](mailto:chincholikarsalil@gmail.com)
-- 💻 Currently working as a Full Stack Developer at [IBM](https://www.ibm.com)
+- 💬 Feel free to ask me anything by [email](mailto:chincholikarsalil@gmail.com)
+- 💻 Currently employed as a Full Stack Developer at [IBM](https://www.ibm.com)
 
 ### Let's connect:
 
