@@ -6,7 +6,7 @@
 - 🌱 Working on improving my skills in **Data Structures and Algorithms**
 - 👯 Love to contribute in every possible way
 - 💬 Feel free to ask me anything by [email](mailto:chincholikarsalil@gmail.com)
-- 💻 Currently employed as a Full Stack Developer at [IBM](https://www.ibm.com)
+- 💻 Currently employed as a Full Stack Developer at [Kapittx](https://www.kapittx.com/)
 
 ### Let's connect:
 
