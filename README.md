@@ -5,7 +5,6 @@
 - 🔭 Passionate about **Full Stack Development** and **DevOps**
 - 🌱 Working on improving my skills in **Data Structures and Algorithms**
 - 👯 Love to contribute in every possible way
-- 💬 Feel free to ask me anything by [email](mailto:chincholikarsalil@gmail.com)
 - 💻 Currently employed as a Full Stack Developer at [Kapittx](https://www.kapittx.com/)
 
 ### Let's connect:
@@ -13,8 +12,10 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chincholikarsalil)
 [![Twitter](https://img.shields.io/badge/Twitter-%233A99D2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/oksalil)
 
+<!-- 
 ---
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=chincholikarsalil&show_icons=true&theme=tokyonight)](https://www.github.com/chincholikarsalil)
+-->
 
 <div>
